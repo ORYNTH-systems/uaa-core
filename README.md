@@ -106,6 +106,32 @@ Execution Integrity Protocol (EIP) extends UAA through:
 
 ---
 
+## Related Publication
+
+**Unified Agency Architecture: A Control-Plane Architecture for Conditional Execution Authority**
+
+DOI: https://doi.org/10.5281/zenodo.20090529
+
+Author: Ashley S. Harris
+
+ORCID Research Profile:
+https://orcid.org/0009-0000-4470-9941
+
+This repository serves as a public reference surface associated with the published UAA research.
+
+### Related Resources
+
+- UAA Website:
+  https://unifiedagencyarchitecture.org/
+
+- ORYNTH GitHub Organization:
+  https://github.com/ORYNTH-systems
+
+- GitHub Sponsors:
+  https://github.com/sponsors/ORYNTH-systems
+
+---
+
 ## Contact
 
 governance@unifiedagencyarchitecture.org
